@@ -52,7 +52,7 @@ Any further explanation / links
 
 Any further explanation / links
 
-## What I plan to do next week
+## What I plan to do this week
 
 <!-- Note: For longer-term goals or tasks, also add to project notes or to appropriate project repository -->
 
